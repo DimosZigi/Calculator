@@ -1,4 +1,2 @@
 # Calculator
-A GUI callculator made in Python.
-
-# Hello
+A GUI calculator made in Python with the use of tkinter
