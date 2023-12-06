@@ -52,7 +52,7 @@ After that, we define the functions for the buttons at the beginning of the code
 
 ![image](https://github.com/DimosZigi/Calculator/assets/151669315/4c41056f-98dc-4aaf-9478-4181fb1c91c8)
 
-Fill up the functions to work, and then we must grid the elemntes on the window.
+Fill the functions, and then we must grid the elemntes on the window.
 
 ![image](https://github.com/DimosZigi/Calculator/assets/151669315/a0f5b79c-d69e-43e9-87cb-bca51c9d67d4)
 
